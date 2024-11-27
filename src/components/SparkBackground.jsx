@@ -57,7 +57,7 @@ const SparkBackground = () => {
         background: "paint(random-sparks)",
         width: "300px",
         height: "200px",
-        border: "1px solid black",
+        border: "1px solid white",
       }}
     >
       Sparkly Background
