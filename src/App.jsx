@@ -2,12 +2,12 @@ import SparkBackground from "./components/SparkBackground";
 
 function App() {
   return (
-    <>
-      <div>
-        <h1>Houdini CSS</h1>
-        <SparkBackground />
-      </div>
-    </>
+    <div className="container">
+      <header>
+        <h1>Houdini CSS - Paint Worklet</h1>
+      </header>
+      <SparkBackground />
+    </div>
   );
 }
 

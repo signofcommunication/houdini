@@ -59,9 +59,7 @@ const SparkBackground = () => {
         height: "200px",
         border: "1px solid white",
       }}
-    >
-      Sparkly Background
-    </div>
+    />
   );
 };
 
